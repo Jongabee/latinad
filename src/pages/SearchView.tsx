@@ -106,7 +106,7 @@ const SearchView: React.FC = () => {
             icon={<SearchOutlined />}
             loading={loading}
           >
-            Buscar Pantallas
+            Buscar Pantalla
           </Button>
         </Form.Item>
       </Form>
